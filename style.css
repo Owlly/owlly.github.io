@@ -1,4 +1,4 @@
 body {
-  background-image: url("../images/owls_header.jpg"),url("../images/look.com.ua-16893.jpg");
+  background-image: url("../images/owls_header.jpg") no-repeat fixed right top 10px,url("../images/light-tile.gif");
   font-family: "Comic sans MS", fantasy;
 }
